@@ -1,4 +1,4 @@
-# 🎓 AI-Based Attendance System with Emotion Detection  
+# 🎓 Attendance System with Emotion Detection  
 
 This project uses **face recognition** and **emotion detection** to automate student attendance marking.  
 If a student’s face is detected, the system marks them **present**, identifies their **emotion**,  
