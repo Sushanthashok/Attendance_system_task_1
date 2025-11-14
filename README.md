@@ -117,12 +117,12 @@ Outside this time window, detections are ignored.
 
 
 ## Data and Visual Output link
+
+ [DRIVE LINK](https://drive.google.com/drive/folders/1Q08Q_8B-ZqW7yCFCoGJtGvRDnpSwhNLV?usp=sharing)
   
 
 
-👉 DATA : [data](https://drive.google.com/file/d/1TpcKkFufIj0YeJd2Xw5mM79LlLPgYgLL/view?usp=drive_link)
 
-👉 SUCCESSFULLY IMPLEMENTED:[Implementation video](https://drive.google.com/file/d/1ipLvwLTTN1XWxjOOGg9NlrNMH-9uZDny/view?usp=drive_link)
 
 
 
